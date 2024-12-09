@@ -9,11 +9,19 @@
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* ProductTestAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ProductTestAppTests.m */; };
 		0C80B921A6F3F58F76C31292 /* libPods-ProductTestApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-ProductTestApp.a */; };
+		104E773D60D24C69846BCCC7 /* Manrope-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBDF71ED0AC94CCE970842C6 /* Manrope-ExtraLight.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		2267C498DDC84783A72C578B /* Manrope-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9E2B7ECD6052412387C28F94 /* Manrope-SemiBold.ttf */; };
+		5ED7F7736BC34EF7B4A8D34B /* Manrope-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A4DC9E3F06A14841BA01381F /* Manrope-Medium.ttf */; };
+		5F821CC70F874A0FA039EA20 /* Manrope-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 690A51103F2647E483535B0D /* Manrope-Regular.ttf */; };
+		60364C4AE8494FAA9A3B2ABF /* Manrope-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F38D9F2F39D94141A80B561F /* Manrope-Bold.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-ProductTestApp-ProductTestAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-ProductTestApp-ProductTestAppTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		95BDD9FC00D447549F18648D /* Manrope-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9FB7295304448F39FF16D8E /* Manrope-Light.ttf */; };
+		966FB96200868F3244B948B4 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		D45350F98792426B814A7673 /* Manrope-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 548A4E6BA6224DEC9ED59BB8 /* Manrope-ExtraBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,12 +47,19 @@
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = ProductTestApp/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-ProductTestApp-ProductTestAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ProductTestApp-ProductTestAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-ProductTestApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProductTestApp.debug.xcconfig"; path = "Target Support Files/Pods-ProductTestApp/Pods-ProductTestApp.debug.xcconfig"; sourceTree = "<group>"; };
+		548A4E6BA6224DEC9ED59BB8 /* Manrope-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-ExtraBold.ttf"; path = "../src/assets/fonts/Manrope-ExtraBold.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-ProductTestApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProductTestApp.release.xcconfig"; path = "Target Support Files/Pods-ProductTestApp/Pods-ProductTestApp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-ProductTestApp-ProductTestAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProductTestApp-ProductTestAppTests.debug.xcconfig"; path = "Target Support Files/Pods-ProductTestApp-ProductTestAppTests/Pods-ProductTestApp-ProductTestAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-ProductTestApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ProductTestApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		690A51103F2647E483535B0D /* Manrope-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-Regular.ttf"; path = "../src/assets/fonts/Manrope-Regular.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ProductTestApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-ProductTestApp-ProductTestAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProductTestApp-ProductTestAppTests.release.xcconfig"; path = "Target Support Files/Pods-ProductTestApp-ProductTestAppTests/Pods-ProductTestApp-ProductTestAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		9E2B7ECD6052412387C28F94 /* Manrope-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-SemiBold.ttf"; path = "../src/assets/fonts/Manrope-SemiBold.ttf"; sourceTree = "<group>"; };
+		A4DC9E3F06A14841BA01381F /* Manrope-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-Medium.ttf"; path = "../src/assets/fonts/Manrope-Medium.ttf"; sourceTree = "<group>"; };
+		CBDF71ED0AC94CCE970842C6 /* Manrope-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-ExtraLight.ttf"; path = "../src/assets/fonts/Manrope-ExtraLight.ttf"; sourceTree = "<group>"; };
+		D9FB7295304448F39FF16D8E /* Manrope-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-Light.ttf"; path = "../src/assets/fonts/Manrope-Light.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F38D9F2F39D94141A80B561F /* Manrope-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-Bold.ttf"; path = "../src/assets/fonts/Manrope-Bold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +139,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				B9E02F4E20A3461EA8C8556B /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -137,6 +153,21 @@
 				00E356EE1AD99517003FC87E /* ProductTestAppTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		B9E02F4E20A3461EA8C8556B /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F38D9F2F39D94141A80B561F /* Manrope-Bold.ttf */,
+				548A4E6BA6224DEC9ED59BB8 /* Manrope-ExtraBold.ttf */,
+				CBDF71ED0AC94CCE970842C6 /* Manrope-ExtraLight.ttf */,
+				D9FB7295304448F39FF16D8E /* Manrope-Light.ttf */,
+				A4DC9E3F06A14841BA01381F /* Manrope-Medium.ttf */,
+				690A51103F2647E483535B0D /* Manrope-Regular.ttf */,
+				9E2B7ECD6052412387C28F94 /* Manrope-SemiBold.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -245,6 +276,14 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				966FB96200868F3244B948B4 /* PrivacyInfo.xcprivacy in Resources */,
+				60364C4AE8494FAA9A3B2ABF /* Manrope-Bold.ttf in Resources */,
+				D45350F98792426B814A7673 /* Manrope-ExtraBold.ttf in Resources */,
+				104E773D60D24C69846BCCC7 /* Manrope-ExtraLight.ttf in Resources */,
+				95BDD9FC00D447549F18648D /* Manrope-Light.ttf in Resources */,
+				5ED7F7736BC34EF7B4A8D34B /* Manrope-Medium.ttf in Resources */,
+				5F821CC70F874A0FA039EA20 /* Manrope-Regular.ttf in Resources */,
+				2267C498DDC84783A72C578B /* Manrope-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -584,7 +623,14 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					" ",
+				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
+				USE_HERMES = true;
 			};
 			name = Debug;
 		};
@@ -649,7 +695,13 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					" ",
+				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
